@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+I'm Issac, a student at Wayne State College where I'm pursuing a degree in Applied Mathematics.
+I love to challenge myself with all sorts of things.
+If somebody tells me I can't do something, more than likely I will try to prove them wrong.
+Fun Facts:
+I don't have a middle name.
+I love to run.
+I have three siblings.
 <!--
 **hernandezissac120/hernandezissac120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
