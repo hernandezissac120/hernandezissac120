@@ -1,9 +1,10 @@
-## Hi there 👋
-I'm Issac, a student at Wayne State College where I'm pursuing a degree in Applied Mathematics.
-I love to challenge myself with all sorts of things.
-If somebody tells me I can't do something, more than likely I will try to prove them wrong.
+## Hi, I'm Issac Santiago 👋
+🏫 Student at Wayne State College
+
+My name is Issac Hernandez-Santiago, I am currently a student at Wayne State College where I am pursuing a degree in Applied Mathematics. I am hoping to finish college in 3-4 years and become an actuary. I love to do all sorts of things from running to doing math. 
 Fun Facts:
 I don't have a middle name.
+I have two last names.
 I love to run.
 I have three siblings.
 <!--
