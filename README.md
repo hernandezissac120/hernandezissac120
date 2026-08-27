@@ -1,12 +1,13 @@
 ## Hi, I'm Issac Santiago 👋
 🏫 Student at Wayne State College
 
-My name is Issac Hernandez-Santiago, I am currently a student at Wayne State College where I am pursuing a degree in Applied Mathematics. I am hoping to finish college in 3-4 years and become an actuary. I love to do all sorts of things from running to doing math. 
-Fun Facts:
-I don't have a middle name.
-I have two last names.
-I love to run.
-I have three siblings.
+ My name is Issac Hernandez-Santiago, I am currently a student at Wayne State College where I am pursuing a degree in Applied Mathematics. I am hoping to finish college in 3-4 years and become an actuary. I love to do all sorts of things from running to doing math. 
+> Fun Facts:
+- I don't have a middle name.
+- I have two last names.
+- I love to run.
+- I have three siblings.
+> Learn more about me (www.linkedin.com/in/issac-hernández-santiago-12b498431) 
 <!--
 **hernandezissac120/hernandezissac120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
